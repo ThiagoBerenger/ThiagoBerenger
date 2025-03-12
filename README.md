@@ -131,15 +131,15 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="120" 
-    style="padding-right: 10px;" 
+    height="130" 
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=ThiagoBerenger&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="120" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBerenger&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
