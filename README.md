@@ -6,8 +6,8 @@
             <img
             alt='Linkedin'
             title='meu Linkedin'
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-            width=28
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            width=90
             />
     </a>
     <a href="https://github.com/ThiagoBerenger?tab=followers">
@@ -142,6 +142,5 @@
       height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBerenger&theme=default&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
